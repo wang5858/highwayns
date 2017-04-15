@@ -1,4 +1,4 @@
-﻿INSERT INTO `hw_ad_category` VALUES 
+INSERT INTO `hw_ad_category` VALUES 
 (NUll, 'HW_indexfocus', 2, '首页图片轮番广告', 1, 10),
 (NUll, 'HW_indexcentreimg', 2, '首页中部格子广告', 1, 30),
 (NUll, 'HW_newsbanner', 2, '资讯首页中间横幅', 1, 0),
@@ -12,11 +12,11 @@
 (NUll, 'HW_newsbanner2', 2, '资讯首页中间横幅2', 1, 0),
 (NUll, 'HW_company_index', 2, '企业会员中心中部广告位', 1, 0),
 (NUll, 'HW_indexcentreimg_230x58', 2, '首页中部格子广告230x58', 1, 0),
-(NUll, 'HW_floor_img1', 2, '首页楼层广告1', 1, 0),
-(NUll, 'HW_floor_img2', 2, '首页楼层广告2', 1, 0),
-(NUll, 'HW_floor_img3', 2, '首页楼层广告3', 1, 0),
-(NUll, 'HW_floor_img4', 2, '首页楼层广告4', 1, 0),
-(NUll, 'HW_floor_img5', 2, '首页楼层广告5', 1, 0);
+(NUll, 'HW_floor_img1', 2, 'トップページフロア広告1', 1, 0),
+(NUll, 'HW_floor_img2', 2, 'トップページフロア広告2', 1, 0),
+(NUll, 'HW_floor_img3', 2, 'トップページフロア広告3', 1, 0),
+(NUll, 'HW_floor_img4', 2, 'トップページフロア広告4', 1, 0),
+(NUll, 'HW_floor_img5', 2, 'トップページフロア広告5’, 1, 0);
 
 INSERT INTO `hw_ad` VALUES 
 (1, 'HW_indexfocus', 1, 1, 2, 'ソフトウェア紹介', '', 50, 0, 0, 0, '', '', '', 'http://jp.highwayns.com/wp/wp-content/themes/biz-vektor/images/headers/bussines_desk_01.jpg', 'http://jp.highwayns.com/', '海威ソフトウェア', 0, '', '', 0, 0, 1, 0, 0, '', '', '', '', 0, '', 0, 0);

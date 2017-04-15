@@ -2,6 +2,7 @@ INSERT INTO `qs_ad_category` VALUES
 (NUll, 'QS_indexfocus', 2, '首页图片轮番广告', 1, 10),
 (NUll, 'QS_indexcentreimg', 2, '首页中部格子广告', 1, 30),
 (NUll, 'QS_newsbanner', 2, '资讯首页中间横幅', 1, 0),
+
 (NUll, 'QS_indexfootimg', 2, '首页下方格子广告位', 1, 0),
 (NUll, 'QS_indexfloat', 5, '首页对联广告', 1, 0),
 (NUll, 'QS_indexfootbanner', 2, '首页底部横幅广告', 1, 0),
